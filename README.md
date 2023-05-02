@@ -30,7 +30,6 @@ As a Minimally Viable Product, we intend to create a workable TSA model.
 
 What meaningful coorelations relate to Revenue.
 
-Could these sample means indicate features to be used along with correlation information and K-Means Clustering to uncover potential sources of predictive power.
 
 #### Data Dictionary: 
 
