@@ -1,4 +1,4 @@
-# wine_clustering_project
+# Predicting Sales by TSA
 
 ##Welcome to this initial exploration of a sales Dataset. This is my first time-series project.
 
